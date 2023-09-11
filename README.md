@@ -1,2 +1,1 @@
-# Kalah
-Board Game 
+Kalah is a two player board game that feautures a wooden board as well as a collection of beads which are used as game pieces. The objecive of the game is capture as many of your opponent's beads as possible. The player with the most seeds at the end wins. This program allows the user to play against another human player or against a computer player. There are two settings with a computer player, smart player and bad player. Bad player choses an arbitary valid move and returns that choice. Smart Player chooses the best move possible to make. Smart Player is designed using game trees and the minimiax algorthim. 
